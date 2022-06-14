@@ -13,5 +13,5 @@
 ***
 ### ПОЛЕЗНЫЕ ССЫЛКИ
 ***
-
+* Git и GitHub Курс Для Новичков https://www.youtube.com/watch?v=zZBiln_2FhM
 ***
