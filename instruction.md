@@ -40,4 +40,7 @@
 ### ПОЛЕЗНЫЕ ССЫЛКИ
 ***
 * Git и GitHub Курс Для Новичков https://www.youtube.com/watch?v=zZBiln_2FhM
+* Ссылка на подробный учебник https://git-scm.com/book/ru/v2/Введение-О-системе-контроля-версий
+* Git. Большой практический выпуск https://www.youtube.com/watch?v=SEvR78OhGtw
+* Интерактивный учебник по Git https://learngitbranching.js.org/?locale=ru_RU
 ***
