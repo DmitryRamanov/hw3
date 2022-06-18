@@ -53,3 +53,5 @@
 * Git. Большой практический выпуск https://www.youtube.com/watch?v=SEvR78OhGtw
 * Интерактивный учебник по Git https://learngitbranching.js.org/?locale=ru_RU
 ***
+
+*Maded by DmitryR.*
